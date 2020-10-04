@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **sunbohong/sunbohong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![sunbohong's github stats](https://github-readme-stats.vercel.app/api?username=sunbohong)](https://github.com/anuraghazra/github-readme-stats)
+[![sunbohong's github stats](https://github-readme-stats.vercel.app/api?username=sunbohong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
